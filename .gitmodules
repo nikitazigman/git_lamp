@@ -1,0 +1,6 @@
+[submodule "git_lamp_design-"]
+	path = git_lamp_design-
+	url = git@github.com:nikitazigman/git_lamp_design-.git
+[submodule "git_lamp_code"]
+	path = git_lamp_code
+	url = git@github.com:nikitazigman/git_lamp_code.git
